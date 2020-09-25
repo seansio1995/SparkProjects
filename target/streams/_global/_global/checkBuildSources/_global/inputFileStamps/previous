@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/chufan/Documents/SparkScalaProject/build.sbt","8e03d0ac1bc7ad39c45d8effb7fec58a7bd75065"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/chufan/Documents/SparkScalaProject/build.sbt","263154d5fc8ae2ca29dcd430008957841fb50acf"]],"lastModifiedTimes":[]}]
